@@ -21,6 +21,6 @@ The pattern is an indication of market turning point. Which means it is likely t
  The indication is even stronger if the green candlestick engulfs 2 or three red candles 
 
 
-![Bullish engulfing](images/Bullish-engulfing-sample-2.png)
+![Bullish engulfing](images/Bullish-engulfing-sample-2.png){:chart}
 
 
