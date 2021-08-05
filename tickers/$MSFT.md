@@ -1,7 +1,7 @@
 ---
 layout: ticker
 title: Microsoft
-category: ticker
+category: $MSFT
 tags: [main]
 ---
 Microsoft
