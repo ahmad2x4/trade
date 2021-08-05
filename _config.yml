@@ -2,11 +2,9 @@ theme: jekyll-theme-hacker
 title: trade with ati
 
 defaults:
-  # Journals
   - scope:
       path: "tikers"
-      type: posts
+      type: ticker
     values:
       permalink: ticker/:category/
       category: journals
-      foo: bar

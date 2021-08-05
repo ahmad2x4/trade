@@ -2,6 +2,6 @@
 layout: ticker
 title: Microsoft
 category: $MSFT
-tags: [main]
+type: ticker
 ---
 Microsoft
