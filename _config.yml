@@ -7,4 +7,4 @@ defaults:
       type: ticker
     values:
       permalink: ticker/:category/:title:output_ext
-      category: journals
+
