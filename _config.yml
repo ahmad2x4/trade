@@ -4,3 +4,12 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+defaults:
+  -
+    scope:
+      path: tickers
+    values:
+      identifier: ticker
+      layout: ticker
+

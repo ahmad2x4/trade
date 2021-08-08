@@ -2,6 +2,9 @@
 layout: home
 published: true
 ---
+### Watchlclist #1
+1. [PLTR](./tickers/$PLTR.html)
+1. [SHOP](./tickers/$SHOP.html)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
