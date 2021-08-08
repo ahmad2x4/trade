@@ -12,3 +12,4 @@ defaults:
     values:
       identifier: ticker
       layout: ticker
+
