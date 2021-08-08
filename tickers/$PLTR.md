@@ -6,4 +6,6 @@ ticker: $PLTR
 
 ### Important links
 - [Investors site](https://investors.palantir.com/)
-- [tikr site](https://app.tikr.com/stock/multiples?cid=43580005&tid=687999699&ref=8j0bt3)
+- [TradingView](https://www.tradingview.com/chart/?symbol=PLTR)
+
+{% twitter https://twitter.com/PalantirTech/status/1423675494873112576 %}
