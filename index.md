@@ -36,6 +36,9 @@ titie: Home
 In no particular order (yet)
 
 - How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition by William O'Neil
+- Think & Trade Like a Champion: The Secrets, Rules & Blunt Truths of a Stock Market Wizard
+- Trade Like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market
+- The Lifecycle Trade: How to Win at Trading IPOs and Super Growth Stocks
 - Reminiscences of a Stock Operator by Edwin Lefèvre
 - Trader Vic: Methods of a Wall Street Master by Victor Sperandeo 
 - The Nature of Risk: Stock Market Survival & the Meaning of Life by Justin Mamis
@@ -50,4 +53,6 @@ In no particular order (yet)
 - The New Market Wizards: Conversations with America's Top Traders by Jack D. Schwager
 - How to Trade In Stocks by Jesse Livermore
 - How I Made $2,000,000 in the Stock Market by Nicolas Darvas
-Trade Your Way to Financial Freedom by Van Tharp 
+- Trade Your Way to Financial Freedom by Van Tharp 
+- The Lifecycle Trade: How to Win at Trading IPOs and Super Growth Stocks
+- How Legendary Traders Made Millions: Profiting From the Investment Strategies of the Gretest Traders of All time
