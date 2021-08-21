@@ -27,6 +27,13 @@ titie: Home
 
 
 
+### EFTs
+- IGM:NYS
+- $SKYY:NAS
+- $CLOU:NAS
+- $HACK:NYS
+
+
 ### IPO listed recently (2 years max):
 - [$COUR](./tickers/$COUR.html)
 
@@ -36,7 +43,7 @@ titie: Home
 ## Books:
 
 ### Reading 
-- [How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition by William O'Neil](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133) 
+- [How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition by William O'Neil](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133) [notes](./notes/books/how-to-make-mone-in-stocks.html)
 
 
 In no particular order (yet)
