@@ -21,9 +21,12 @@ N. New products, managements or conditions
   - Every stock if it is going to 10x from 100$/share to 1000/ share has to make new highs along the way 
 
 S. Supply & Demand 
+
 L. Leader or Laggard
+
 I. Institutional sponsorship
+
 M. Market direction
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=v6LA87QgkiY" frameborder="0" allowfullscreen></iframe>
+[Good youtube video to summerize this from Richard Moglen ](https://www.youtube.com/watch?v=v6LA87QgkiY)
