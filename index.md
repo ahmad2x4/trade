@@ -9,21 +9,21 @@ titie: Home
 ### Watchlist #1
 1. [$PLTR](./tickers/$PLTR.html)
 1. [$SHOP](./tickers/$SHOP.html)
+1. $APPS (check this...)
+1. $DOCU
 1. $MRVI
 1. $TSLA
-1. $DOCU
 1. $SQ
-1. [$COUR](./tickers/$COUR.html)
 
 
 ### Whatchlist #2
-- $OPTI
-- $APPS
+- [$COUR](./tickers/$COUR.html)
 - $DOCN
 - $UPST
 - $SOFI
 - $BNGO
 - $NVDA
+- $OPTI
 
 
 
