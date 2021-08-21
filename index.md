@@ -43,7 +43,7 @@ titie: Home
 ## Books:
 
 ### Reading 
-- [How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition by William O'Neil](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133) [notes](./notes/books/how-to-make-mone-in-stocks.html)
+- [How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition by William O'Neil](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133) ***[my notes](./notes/books/how-to-make-mone-in-stocks.html)***
 
 
 In no particular order (yet)
