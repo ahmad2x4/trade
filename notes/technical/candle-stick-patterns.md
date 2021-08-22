@@ -13,7 +13,7 @@ From investopedia:
 ### Bullish patterns:
 
 #### Bulish engulfing
-A red candle followed by a green one which fully engulfs the read candle.
+A red candle followed by a green one which fully engulfs the red candle.
 The pattern is an indication of market turning point. Which means it is likely that market start going up and it is a buy signal.
 
 
@@ -22,5 +22,16 @@ The pattern is an indication of market turning point. Which means it is likely t
  The indication is even stronger if the green candlestick engulfs 2 or three red candles 
 
 
-![Bullish engulfing](images/Bullish-engulfing-sample-2.png){:chart}
+![Bullish engulfing](images/bullish-engulfing-sample-2.png)
+
+
+
+### Breaish patterns:
+
+#### Bearish engulfing
+A green candle followed by a red one which fully engulfs the green candle.
+The pattern is an indication of market turning point. Which means it is likely that market start going down and it is a selling signal.
+
+
+![Bearish engulfing](images/bullish-engulfing-sample-2.png)
 
