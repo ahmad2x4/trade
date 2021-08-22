@@ -21,7 +21,6 @@ titie: Home
 - [$COUR](./tickers/$COUR.html)
 - $APPS (check this...)
 - $DOCN
-- $UPST
 - $SOFI
 - $BNGO
 - $NVDA

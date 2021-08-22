@@ -3,7 +3,7 @@ title: Upstart
 ticker: $UPST
 ---
 
-![logo](https://www.upstart.com/saas/upstart.svg){: .logo}
+![logo](https://logovectorseek.com/wp-content/uploads/2020/11/upstart-network-inc-logo-vector.png){: .logo}
 
 ## Mission: Our mission is to enable effortless credit based on true risk.
 
