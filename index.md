@@ -9,15 +9,17 @@ titie: Home
 ### Watchlist #1
 1. [$PLTR](./tickers/$PLTR.html)
 1. [$SHOP](./tickers/$SHOP.html)
-1. $APPS (check this...)
-1. $DOCU
+1. [$UPST](./tickers/$UPST.html)
 1. $MRVI
-1. $TSLA
+1. $DOCU
+1. $BILL
 1. $SQ
+1. $TSLA
 
 
 ### Whatchlist #2
 - [$COUR](./tickers/$COUR.html)
+- $APPS (check this...)
 - $DOCN
 - $UPST
 - $SOFI
@@ -26,6 +28,9 @@ titie: Home
 - $OPTI
 
 
+### Recent IPOs
+- $ASAN
+- $UPST
 
 ### EFTs
 - IGM:NYS
