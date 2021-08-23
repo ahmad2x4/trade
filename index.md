@@ -15,6 +15,8 @@ titie: Home
 1. $BILL
 1. $SQ
 1. $TSLA
+1. $SNOW
+1. $PTON
 
 
 ### Whatchlist #2
@@ -30,6 +32,8 @@ titie: Home
 ### Recent IPOs
 - $ASAN
 - $UPST
+- $ZIM
+- [$COIN](./ticker/$COIN.html)
 
 ### EFTs
 - IGM:NYS

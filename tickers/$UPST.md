@@ -11,6 +11,9 @@ ticker: $UPST
 
 
 
+### Important links
+
 - [Upstart site](https://www.upstart.com/about)
 - [Investor relations](https://ir.upstart.com/)
 - [News releases](https://ir.upstart.com/news-and-events/news-releases)
+- [TradingView](https://www.tradingview.com/chart/?symbol=UPST)
