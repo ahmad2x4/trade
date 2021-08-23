@@ -34,17 +34,13 @@ titie: Home
 - $UPST
 - $ZIM
 - [$COIN](./ticker/$COIN.html)
+- [$COUR](./tickers/$COUR.html)
 
 ### EFTs
 - IGM:NYS
 - $SKYY:NAS
 - $CLOU:NAS
 - $HACK:NYS
-
-
-### IPO listed recently (2 years max):
-- [$COUR](./tickers/$COUR.html)
-
 
 
 
