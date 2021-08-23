@@ -33,7 +33,7 @@ titie: Home
 - $ASAN
 - $UPST
 - $ZIM
-- [$COIN](./ticker/$COIN.html)
+- [$COIN](./tickers/$COIN.html)
 - [$COUR](./tickers/$COUR.html)
 
 ### EFTs
