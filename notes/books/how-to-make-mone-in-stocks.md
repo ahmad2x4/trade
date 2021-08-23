@@ -53,4 +53,13 @@ M. Market direction
 
 ### Technicals and Managing Risk
   - Enter when suply and demand characteristics are in my your favor
-  
+  - Little Overhead Suply 
+  - Long Term Uptrend (200 ma upward)
+  - Accumulation Signs 
+    - Large Up Volume Days 
+    - Large Earnings Gap Ups
+    - Tight price action on low volume 
+    - Relative Strength signs 
+    - Trending above key Moving Averages 
+
+    
