@@ -31,9 +31,9 @@ titie: Home
 
 ### Recent IPOs
 - $ASAN
+- [$UPST](./tickers/$UPST.html)
 - $DDOG
 - $CFLT
-- $UPST
 - $ZIM
 - [$COIN](./tickers/$COIN.html)
 - [$COUR](./tickers/$COUR.html)
@@ -46,6 +46,10 @@ titie: Home
 - $HACK:NYS
 
 
+
+## Blogs:
+
+[Chris Perruna](http://www.chrisperruna.com/)
 
 ## Books:
 
