@@ -31,13 +31,16 @@ titie: Home
 
 ### Recent IPOs
 - $ASAN
+- $DDOG
+- $CFLT
 - $UPST
 - $ZIM
 - [$COIN](./tickers/$COIN.html)
 - [$COUR](./tickers/$COUR.html)
 
 ### EFTs
-- IGM:NYS
+- $SPY:NYS
+- $IGM:NYS
 - $SKYY:NAS
 - $CLOU:NAS
 - $HACK:NYS
