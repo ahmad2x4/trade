@@ -14,19 +14,23 @@ titie: Home
 1. $DOCU
 1. $BILL
 1. $SQ
+1. $NVDA
 1. $TSLA
 1. $SNOW
 1. $PTON
+1. $SE
+1. $NVDA
 
 
 ### Whatchlist #2
 - [$COUR](./tickers/$COUR.html)
-- $APPS (check this...)
 - $DOCN
+- $PYPL
 - $SOFI
 - $BNGO
-- $NVDA
 - $OPTI
+- $DOCS
+- $APPS
 
 
 ### Recent IPOs
