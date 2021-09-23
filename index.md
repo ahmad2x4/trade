@@ -17,9 +17,9 @@ titie: Home
 1. $NVDA
 1. $TSLA
 1. $SNOW
+1. $NVDA
 1. $PTON
 1. $SE
-1. $NVDA
 
 
 ### Whatchlist #2
